@@ -44,4 +44,3 @@ export interface FilterMalumot {
   qidiruv: string;     // Qidiruv matni
   guruh: string;       // Guruh bo'yicha filter
   aktiv: boolean | null; 
-}
