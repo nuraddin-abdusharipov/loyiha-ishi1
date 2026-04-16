@@ -43,5 +43,5 @@ export type SortTuri = "ism" | "yosh" | "baho" | "guruh";
 export interface FilterMalumot {
   qidiruv: string;     // Qidiruv matni
   guruh: string;       // Guruh bo'yicha filter
-  aktiv: boolean | null; // Aktiv/passiv filter (null = hammasi)
+  aktiv: boolean | null; 
 }
